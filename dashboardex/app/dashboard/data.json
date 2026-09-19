@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "cliente": "Luis Hernández",
+    "vehiculo": "Nissan Versa 2021",
+    "placas": "ABC-123-D",
+    "servicio": "Afinación mayor",
+    "mecanico": "Carlos Ramírez",
+    "fecha_ingreso": "2026-09-01",
+    "estado": "En proceso",
+    "costo_estimado": "$2,800"
+  },
+  {
+    "id": 2,
+    "cliente": "María García",
+    "vehiculo": "Chevrolet Aveo 2020",
+    "placas": "MEX-482-A",
+    "servicio": "Cambio de frenos",
+    "mecanico": "Miguel Torres",
+    "fecha_ingreso": "2026-09-02",
+    "estado": "Esperando refacción",
+    "costo_estimado": "$3,400"
+  },
+  {
+    "id": 3,
+    "cliente": "José Martínez",
+    "vehiculo": "Volkswagen Jetta 2019",
+    "placas": "PQR-719-B",
+    "servicio": "Diagnóstico computarizado",
+    "mecanico": "Ana Martínez",
+    "fecha_ingreso": "2026-09-03",
+    "estado": "En proceso",
+    "costo_estimado": "$850"
+  },
+  {
+    "id": 4,
+    "cliente": "Ana López",
+    "vehiculo": "Toyota Corolla 2022",
+    "placas": "JAL-305-C",
+    "servicio": "Alineación y balanceo",
+    "mecanico": "Jorge Hernández",
+    "fecha_ingreso": "2026-09-04",
+    "estado": "Terminado",
+    "costo_estimado": "$750"
+  },
+  {
+    "id": 5,
+    "cliente": "Roberto Sánchez",
+    "vehiculo": "Ford Escape 2018",
+    "placas": "NLM-864-E",
+    "servicio": "Revisión de suspensión",
+    "mecanico": "Carlos Ramírez",
+    "fecha_ingreso": "2026-09-01",
+    "estado": "Esperando refacción",
+    "costo_estimado": "$4,200"
+  },
+  {
+    "id": 6,
+    "cliente": "Laura Pérez",
+    "vehiculo": "Nissan Sentra 2023",
+    "placas": "GTO-216-F",
+    "servicio": "Cambio de aceite",
+    "mecanico": "Miguel Torres",
+    "fecha_ingreso": "2026-09-02",
+    "estado": "En proceso",
+    "costo_estimado": "$950"
+  },
+  {
+    "id": 7,
+    "cliente": "Fernando Ramírez",
+    "vehiculo": "Chevrolet Onix 2022",
+    "placas": "XYZ-903-G",
+    "servicio": "Cambio de clutch",
+    "mecanico": "Ana Martínez",
+    "fecha_ingreso": "2026-09-03",
+    "estado": "Esperando refacción",
+    "costo_estimado": "$6,800"
+  },
+  {
+    "id": 8,
+    "cliente": "Claudia Torres",
+    "vehiculo": "Volkswagen Vento 2020",
+    "placas": "HJK-571-H",
+    "servicio": "Afinación",
+    "mecanico": "Jorge Hernández",
+    "fecha_ingreso": "2026-09-04",
+    "estado": "En proceso",
+    "costo_estimado": "$2,200"
+  },
+  {
+    "id": 9,
+    "cliente": "Miguel Flores",
+    "vehiculo": "Toyota RAV4 2021",
+    "placas": "TUV-628-J",
+    "servicio": "Cambio de frenos",
+    "mecanico": "Carlos Ramírez",
+    "fecha_ingreso": "2026-09-01",
+    "estado": "Terminado",
+    "costo_estimado": "$3,100"
+  },
+  {
+    "id": 10,
+    "cliente": "Patricia Cruz",
+    "vehiculo": "Ford Fiesta 2017",
+    "placas": "BCD-149-K",
+    "servicio": "Diagnóstico computarizado",
+    "mecanico": "Miguel Torres",
+    "fecha_ingreso": "2026-09-02",
+    "estado": "En proceso",
+    "costo_estimado": "$850"
+  },
+  {
+    "id": 11,
+    "cliente": "Jorge Mendoza",
+    "vehiculo": "Nissan March 2020",
+    "placas": "EFG-732-L",
+    "servicio": "Cambio de aceite",
+    "mecanico": "Ana Martínez",
+    "fecha_ingreso": "2026-09-03",
+    "estado": "Terminado",
+    "costo_estimado": "$850"
+  },
+  {
+    "id": 12,
+    "cliente": "Gabriela Ruiz",
+    "vehiculo": "Chevrolet Cruze 2018",
+    "placas": "RST-480-M",
+    "servicio": "Revisión de suspensión",
+    "mecanico": "Jorge Hernández",
+    "fecha_ingreso": "2026-09-04",
+    "estado": "En proceso",
+    "costo_estimado": "$3,600"
+  },
+  {
+    "id": 13,
+    "cliente": "Ricardo Morales",
+    "vehiculo": "Volkswagen Tiguan 2022",
+    "placas": "VWX-295-N",
+    "servicio": "Alineación y balanceo",
+    "mecanico": "Carlos Ramírez",
+    "fecha_ingreso": "2026-09-01",
+    "estado": "Entregado",
+    "costo_estimado": "$900"
+  },
+  {
+    "id": 14,
+    "cliente": "Daniela Ortiz",
+    "vehiculo": "Toyota Yaris 2023",
+    "placas": "KLM-617-P",
+    "servicio": "Afinación",
+    "mecanico": "Miguel Torres",
+    "fecha_ingreso": "2026-09-02",
+    "estado": "Entregado",
+    "costo_estimado": "$2,100"
+  },
+  {
+    "id": 15,
+    "cliente": "Alejandro Vega",
+    "vehiculo": "Ford Ranger 2021",
+    "placas": "DEF-853-R",
+    "servicio": "Cambio de aceite",
+    "mecanico": "Ana Martínez",
+    "fecha_ingreso": "2026-09-03",
+    "estado": "Entregado",
+    "costo_estimado": "$1,400"
+  },
+  {
+    "id": 16,
+    "cliente": "Sofía Castillo",
+    "vehiculo": "Nissan NP300 2019",
+    "placas": "GHJ-364-S",
+    "servicio": "Cambio de frenos",
+    "mecanico": "Jorge Hernández",
+    "fecha_ingreso": "2026-09-04",
+    "estado": "Entregado",
+    "costo_estimado": "$3,200"
+  },
+  {
+    "id": 17,
+    "cliente": "Enrique Navarro",
+    "vehiculo": "Chevrolet Trax 2020",
+    "placas": "NPQ-928-T",
+    "servicio": "Servicio de enfriamiento",
+    "mecanico": "Carlos Ramírez",
+    "fecha_ingreso": "2026-09-01",
+    "estado": "Entregado",
+    "costo_estimado": "$1,800"
+  },
+  {
+    "id": 18,
+    "cliente": "Adriana Reyes",
+    "vehiculo": "Volkswagen Polo 2021",
+    "placas": "STU-506-V",
+    "servicio": "Cambio de batería",
+    "mecanico": "Miguel Torres",
+    "fecha_ingreso": "2026-09-02",
+    "estado": "Entregado",
+    "costo_estimado": "$2,400"
+  }
+]

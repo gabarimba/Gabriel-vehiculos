@@ -1,0 +1,626 @@
+{
+  "fecha_demo": "2026-09-04",
+  "vehiculos_ayer": 10,
+  "actividad": [
+    {
+      "fecha": "2026-07-25",
+      "mantenimiento": 4,
+      "reparacion": 2,
+      "ingresos": 9400
+    },
+    {
+      "fecha": "2026-07-26",
+      "mantenimiento": 0,
+      "reparacion": 0,
+      "ingresos": 0
+    },
+    {
+      "fecha": "2026-07-27",
+      "mantenimiento": 5,
+      "reparacion": 4,
+      "ingresos": 15350
+    },
+    {
+      "fecha": "2026-07-28",
+      "mantenimiento": 8,
+      "reparacion": 2,
+      "ingresos": 14000
+    },
+    {
+      "fecha": "2026-07-29",
+      "mantenimiento": 6,
+      "reparacion": 3,
+      "ingresos": 14100
+    },
+    {
+      "fecha": "2026-07-30",
+      "mantenimiento": 4,
+      "reparacion": 4,
+      "ingresos": 14200
+    },
+    {
+      "fecha": "2026-07-31",
+      "mantenimiento": 7,
+      "reparacion": 2,
+      "ingresos": 12850
+    },
+    {
+      "fecha": "2026-08-01",
+      "mantenimiento": 5,
+      "reparacion": 3,
+      "ingresos": 12950
+    },
+    {
+      "fecha": "2026-08-02",
+      "mantenimiento": 0,
+      "reparacion": 0,
+      "ingresos": 0
+    },
+    {
+      "fecha": "2026-08-03",
+      "mantenimiento": 6,
+      "reparacion": 2,
+      "ingresos": 11700
+    },
+    {
+      "fecha": "2026-08-04",
+      "mantenimiento": 4,
+      "reparacion": 3,
+      "ingresos": 11800
+    },
+    {
+      "fecha": "2026-08-05",
+      "mantenimiento": 7,
+      "reparacion": 4,
+      "ingresos": 17650
+    },
+    {
+      "fecha": "2026-08-06",
+      "mantenimiento": 5,
+      "reparacion": 2,
+      "ingresos": 10550
+    },
+    {
+      "fecha": "2026-08-07",
+      "mantenimiento": 8,
+      "reparacion": 3,
+      "ingresos": 16400
+    },
+    {
+      "fecha": "2026-08-08",
+      "mantenimiento": 6,
+      "reparacion": 4,
+      "ingresos": 16500
+    },
+    {
+      "fecha": "2026-08-09",
+      "mantenimiento": 0,
+      "reparacion": 0,
+      "ingresos": 0
+    },
+    {
+      "fecha": "2026-08-10",
+      "mantenimiento": 7,
+      "reparacion": 3,
+      "ingresos": 15250
+    },
+    {
+      "fecha": "2026-08-11",
+      "mantenimiento": 5,
+      "reparacion": 4,
+      "ingresos": 15350
+    },
+    {
+      "fecha": "2026-08-12",
+      "mantenimiento": 8,
+      "reparacion": 2,
+      "ingresos": 14000
+    },
+    {
+      "fecha": "2026-08-13",
+      "mantenimiento": 6,
+      "reparacion": 3,
+      "ingresos": 14100
+    },
+    {
+      "fecha": "2026-08-14",
+      "mantenimiento": 4,
+      "reparacion": 4,
+      "ingresos": 14200
+    },
+    {
+      "fecha": "2026-08-15",
+      "mantenimiento": 7,
+      "reparacion": 2,
+      "ingresos": 12850
+    },
+    {
+      "fecha": "2026-08-16",
+      "mantenimiento": 0,
+      "reparacion": 0,
+      "ingresos": 0
+    },
+    {
+      "fecha": "2026-08-17",
+      "mantenimiento": 8,
+      "reparacion": 4,
+      "ingresos": 18800
+    },
+    {
+      "fecha": "2026-08-18",
+      "mantenimiento": 6,
+      "reparacion": 2,
+      "ingresos": 11700
+    },
+    {
+      "fecha": "2026-08-19",
+      "mantenimiento": 4,
+      "reparacion": 3,
+      "ingresos": 11800
+    },
+    {
+      "fecha": "2026-08-20",
+      "mantenimiento": 7,
+      "reparacion": 4,
+      "ingresos": 17650
+    },
+    {
+      "fecha": "2026-08-21",
+      "mantenimiento": 5,
+      "reparacion": 2,
+      "ingresos": 10550
+    },
+    {
+      "fecha": "2026-08-22",
+      "mantenimiento": 8,
+      "reparacion": 3,
+      "ingresos": 16400
+    },
+    {
+      "fecha": "2026-08-23",
+      "mantenimiento": 0,
+      "reparacion": 0,
+      "ingresos": 0
+    },
+    {
+      "fecha": "2026-08-24",
+      "mantenimiento": 4,
+      "reparacion": 2,
+      "ingresos": 9400
+    },
+    {
+      "fecha": "2026-08-25",
+      "mantenimiento": 7,
+      "reparacion": 3,
+      "ingresos": 15250
+    },
+    {
+      "fecha": "2026-08-26",
+      "mantenimiento": 5,
+      "reparacion": 4,
+      "ingresos": 15350
+    },
+    {
+      "fecha": "2026-08-27",
+      "mantenimiento": 8,
+      "reparacion": 2,
+      "ingresos": 14000
+    },
+    {
+      "fecha": "2026-08-28",
+      "mantenimiento": 6,
+      "reparacion": 3,
+      "ingresos": 14100
+    },
+    {
+      "fecha": "2026-08-29",
+      "mantenimiento": 4,
+      "reparacion": 4,
+      "ingresos": 14200
+    },
+    {
+      "fecha": "2026-08-30",
+      "mantenimiento": 0,
+      "reparacion": 0,
+      "ingresos": 0
+    },
+    {
+      "fecha": "2026-08-31",
+      "mantenimiento": 5,
+      "reparacion": 3,
+      "ingresos": 12950
+    },
+    {
+      "fecha": "2026-09-01",
+      "mantenimiento": 8,
+      "reparacion": 4,
+      "ingresos": 18800
+    },
+    {
+      "fecha": "2026-09-02",
+      "mantenimiento": 6,
+      "reparacion": 2,
+      "ingresos": 11700
+    },
+    {
+      "fecha": "2026-09-03",
+      "mantenimiento": 4,
+      "reparacion": 3,
+      "ingresos": 11800
+    },
+    {
+      "fecha": "2026-09-04",
+      "mantenimiento": 7,
+      "reparacion": 4,
+      "ingresos": 17650
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Luis Hernández",
+      "telefono": "55 0000 1000",
+      "email": "cliente1@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-10",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Nissan Versa 2021",
+          "costo": 950,
+          "mecanico": "Carlos Ramírez"
+        },
+        {
+          "fecha": "2026-05-10",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Nissan Versa 2021",
+          "costo": 750,
+          "mecanico": "Miguel Torres"
+        }
+      ],
+      "notas": "Inspección inicial completada. Se revisan niveles y puntos de seguridad. Realizar prueba de manejo al finalizar el servicio."
+    },
+    {
+      "id": 2,
+      "nombre": "María García",
+      "telefono": "55 0000 1001",
+      "email": "cliente2@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-11",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Chevrolet Aveo 2020",
+          "costo": 950,
+          "mecanico": "Miguel Torres"
+        },
+        {
+          "fecha": "2026-05-11",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Chevrolet Aveo 2020",
+          "costo": 750,
+          "mecanico": "Ana Martínez"
+        },
+        {
+          "fecha": "2026-03-11",
+          "servicio": "Afinación",
+          "vehiculo": "Chevrolet Aveo 2020",
+          "costo": 2200,
+          "mecanico": "Jorge Hernández"
+        }
+      ],
+      "notas": "Diagnóstico confirmado. Refacción solicitada al proveedor; pendiente confirmar hora de llegada. Contactar al cliente antes de autorizar trabajos adicionales."
+    },
+    {
+      "id": 3,
+      "nombre": "José Martínez",
+      "telefono": "55 0000 1002",
+      "email": "cliente3@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-12",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Volkswagen Jetta 2019",
+          "costo": 950,
+          "mecanico": "Ana Martínez"
+        },
+        {
+          "fecha": "2026-05-12",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Volkswagen Jetta 2019",
+          "costo": 750,
+          "mecanico": "Jorge Hernández"
+        }
+      ],
+      "notas": "Inspección inicial completada. Se revisan niveles y puntos de seguridad. Realizar prueba de manejo al finalizar el servicio."
+    },
+    {
+      "id": 4,
+      "nombre": "Ana López",
+      "telefono": "55 0000 1003",
+      "email": "cliente4@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-13",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Toyota Corolla 2022",
+          "costo": 950,
+          "mecanico": "Jorge Hernández"
+        },
+        {
+          "fecha": "2026-05-13",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Toyota Corolla 2022",
+          "costo": 750,
+          "mecanico": "Carlos Ramírez"
+        },
+        {
+          "fecha": "2026-03-13",
+          "servicio": "Afinación",
+          "vehiculo": "Toyota Corolla 2022",
+          "costo": 2200,
+          "mecanico": "Miguel Torres"
+        }
+      ],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    },
+    {
+      "id": 5,
+      "nombre": "Roberto Sánchez",
+      "telefono": "55 0000 1004",
+      "email": "cliente5@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-14",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Ford Escape 2018",
+          "costo": 950,
+          "mecanico": "Carlos Ramírez"
+        },
+        {
+          "fecha": "2026-05-14",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Ford Escape 2018",
+          "costo": 750,
+          "mecanico": "Miguel Torres"
+        }
+      ],
+      "notas": "Diagnóstico confirmado. Refacción solicitada al proveedor; pendiente confirmar hora de llegada. Contactar al cliente antes de autorizar trabajos adicionales."
+    },
+    {
+      "id": 6,
+      "nombre": "Laura Pérez",
+      "telefono": "55 0000 1005",
+      "email": "cliente6@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-15",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Nissan Sentra 2023",
+          "costo": 950,
+          "mecanico": "Miguel Torres"
+        },
+        {
+          "fecha": "2026-05-15",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Nissan Sentra 2023",
+          "costo": 750,
+          "mecanico": "Ana Martínez"
+        },
+        {
+          "fecha": "2026-03-15",
+          "servicio": "Afinación",
+          "vehiculo": "Nissan Sentra 2023",
+          "costo": 2200,
+          "mecanico": "Jorge Hernández"
+        }
+      ],
+      "notas": "Inspección inicial completada. Se revisan niveles y puntos de seguridad. Realizar prueba de manejo al finalizar el servicio."
+    },
+    {
+      "id": 7,
+      "nombre": "Fernando Ramírez",
+      "telefono": "55 0000 1006",
+      "email": "cliente7@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-16",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Chevrolet Onix 2022",
+          "costo": 950,
+          "mecanico": "Ana Martínez"
+        },
+        {
+          "fecha": "2026-05-16",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Chevrolet Onix 2022",
+          "costo": 750,
+          "mecanico": "Jorge Hernández"
+        }
+      ],
+      "notas": "Diagnóstico confirmado. Refacción solicitada al proveedor; pendiente confirmar hora de llegada. Contactar al cliente antes de autorizar trabajos adicionales."
+    },
+    {
+      "id": 8,
+      "nombre": "Claudia Torres",
+      "telefono": "55 0000 1007",
+      "email": "cliente8@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-17",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Volkswagen Vento 2020",
+          "costo": 950,
+          "mecanico": "Jorge Hernández"
+        },
+        {
+          "fecha": "2026-05-17",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Volkswagen Vento 2020",
+          "costo": 750,
+          "mecanico": "Carlos Ramírez"
+        },
+        {
+          "fecha": "2026-03-17",
+          "servicio": "Afinación",
+          "vehiculo": "Volkswagen Vento 2020",
+          "costo": 2200,
+          "mecanico": "Miguel Torres"
+        }
+      ],
+      "notas": "Inspección inicial completada. Se revisan niveles y puntos de seguridad. Realizar prueba de manejo al finalizar el servicio."
+    },
+    {
+      "id": 9,
+      "nombre": "Miguel Flores",
+      "telefono": "55 0000 1008",
+      "email": "cliente9@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-18",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Toyota RAV4 2021",
+          "costo": 950,
+          "mecanico": "Carlos Ramírez"
+        },
+        {
+          "fecha": "2026-05-18",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Toyota RAV4 2021",
+          "costo": 750,
+          "mecanico": "Miguel Torres"
+        }
+      ],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    },
+    {
+      "id": 10,
+      "nombre": "Patricia Cruz",
+      "telefono": "55 0000 1009",
+      "email": "cliente10@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-19",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Ford Fiesta 2017",
+          "costo": 950,
+          "mecanico": "Miguel Torres"
+        },
+        {
+          "fecha": "2026-05-19",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Ford Fiesta 2017",
+          "costo": 750,
+          "mecanico": "Ana Martínez"
+        },
+        {
+          "fecha": "2026-03-19",
+          "servicio": "Afinación",
+          "vehiculo": "Ford Fiesta 2017",
+          "costo": 2200,
+          "mecanico": "Jorge Hernández"
+        }
+      ],
+      "notas": "Inspección inicial completada. Se revisan niveles y puntos de seguridad. Realizar prueba de manejo al finalizar el servicio."
+    },
+    {
+      "id": 11,
+      "nombre": "Jorge Mendoza",
+      "telefono": "55 0000 1010",
+      "email": "cliente11@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-20",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Nissan March 2020",
+          "costo": 950,
+          "mecanico": "Ana Martínez"
+        },
+        {
+          "fecha": "2026-05-20",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Nissan March 2020",
+          "costo": 750,
+          "mecanico": "Jorge Hernández"
+        }
+      ],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    },
+    {
+      "id": 12,
+      "nombre": "Gabriela Ruiz",
+      "telefono": "55 0000 1011",
+      "email": "cliente12@example.com",
+      "historial": [
+        {
+          "fecha": "2026-07-21",
+          "servicio": "Cambio de aceite",
+          "vehiculo": "Chevrolet Cruze 2018",
+          "costo": 950,
+          "mecanico": "Jorge Hernández"
+        },
+        {
+          "fecha": "2026-05-21",
+          "servicio": "Alineación y balanceo",
+          "vehiculo": "Chevrolet Cruze 2018",
+          "costo": 750,
+          "mecanico": "Carlos Ramírez"
+        },
+        {
+          "fecha": "2026-03-21",
+          "servicio": "Afinación",
+          "vehiculo": "Chevrolet Cruze 2018",
+          "costo": 2200,
+          "mecanico": "Miguel Torres"
+        }
+      ],
+      "notas": "Inspección inicial completada. Se revisan niveles y puntos de seguridad. Realizar prueba de manejo al finalizar el servicio."
+    },
+    {
+      "id": 13,
+      "nombre": "Ricardo Morales",
+      "telefono": "55 0000 1012",
+      "email": "cliente13@example.com",
+      "historial": [],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    },
+    {
+      "id": 14,
+      "nombre": "Daniela Ortiz",
+      "telefono": "55 0000 1013",
+      "email": "cliente14@example.com",
+      "historial": [],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    },
+    {
+      "id": 15,
+      "nombre": "Alejandro Vega",
+      "telefono": "55 0000 1014",
+      "email": "cliente15@example.com",
+      "historial": [],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    },
+    {
+      "id": 16,
+      "nombre": "Sofía Castillo",
+      "telefono": "55 0000 1015",
+      "email": "cliente16@example.com",
+      "historial": [],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    },
+    {
+      "id": 17,
+      "nombre": "Enrique Navarro",
+      "telefono": "55 0000 1016",
+      "email": "cliente17@example.com",
+      "historial": [],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    },
+    {
+      "id": 18,
+      "nombre": "Adriana Reyes",
+      "telefono": "55 0000 1017",
+      "email": "cliente18@example.com",
+      "historial": [],
+      "notas": "Servicio completado y revisión de seguridad realizada. Se explicarán al cliente las recomendaciones de mantenimiento en la entrega."
+    }
+  ]
+}
